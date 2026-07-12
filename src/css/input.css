@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@source "../js/main.ts";
+::selection {
+  background: #940101;
+  color: white;
+}
